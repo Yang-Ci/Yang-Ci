@@ -1,0 +1,90 @@
+<div align="center">
+
+<!-- ✨ 动态打字标题 -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=F7B93E&center=true&vCenter=true&random=false&width=650&lines=Hello+World!;我是+Yang-Ci;机器人+/+AI+应用开发者;ROS2+·+MuJoCo+·+机械臂;让机器理解并改变世界" alt="Typing SVG" />
+</a>
+
+<h3>👋 你好,我是 Yang-Ci</h3>
+
+<p>
+  <em>专注机器人与 AI 应用开发 —— 机械臂控制、ROS2、具身智能、视觉与语音交互。</em>
+</p>
+
+</div>
+
+---
+
+## 🧰 技术栈
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,ts,pytorch,tensorflow,react,nodejs,linux,docker,git,github,vscode&theme=light" alt="skills" />
+  </a>
+</div>
+
+---
+
+## 📊 GitHub 数据
+
+<div align="center">
+
+![streak](https://streak-stats.demolab.com/?user=Yang-Ci&theme=transparent&hide_border=true)
+
+<a href="https://github.com/Yang-Ci?tab=followers">
+  <img src="https://img.shields.io/github/followers/Yang-Ci?label=Followers&style=for-the-badge&labelColor=343A46&color=23272F" alt="Followers" />
+</a>
+<a href="https://github.com/Yang-Ci?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Yang-Ci?label=Stars&style=for-the-badge&labelColor=343A46&color=F7B93E" alt="Stars" />
+</a>
+
+</div>
+
+---
+
+## ⭐ 精选项目
+
+<div align="center">
+
+<a href="https://github.com/Yang-Ci/Borot-Arm_Mujoco">
+  <img src="https://gh-card.dev/repos/Yang-Ci/Borot-Arm_Mujoco.svg" alt="Borot-Arm_Mujoco" />
+</a>
+<a href="https://github.com/Yang-Ci/Rebot-Arm">
+  <img src="https://gh-card.dev/repos/Yang-Ci/Rebot-Arm.svg" alt="Rebot-Arm" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Yang-Ci/NVIDIA-Orin-AI-">
+  <img src="https://gh-card.dev/repos/Yang-Ci/NVIDIA-Orin-AI-.svg" alt="NVIDIA-Orin-AI-" />
+</a>
+<a href="https://github.com/Yang-Ci/Codex-Cosmos">
+  <img src="https://gh-card.dev/repos/Yang-Ci/Codex-Cosmos.svg" alt="Codex-Cosmos" />
+</a>
+
+</div>
+
+---
+
+## 📫 联系我
+
+<p align="center">
+  <a href="mailto:2972783458@qq.com">
+    <img src="https://img.shields.io/badge/Email-2972783458@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?pageId=Yang-Ci&label=Visitors" alt="visitor" />
+</p>
+
+<!--
+============================================================
+🐍 进阶:贪吃蛇贡献图(需要 GitHub Action 自动生成,效果很炫)
+原理:用 Action 每天把你的贡献图转成一条贪吃蛇 SVG,再贴回 README。
+配置:在仓库根目录新建 .github/workflows/snake.yml,调用 Platane/snk 动作生成并提交到 output 分支。
+完整模板见:https://github.com/Platane/snk
+============================================================
+-->
