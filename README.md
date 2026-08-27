@@ -2,7 +2,7 @@
 
 <!-- ✨ 动态打字标题 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=F7B93E&center=true&vCenter=true&random=false&width=650&lines=Hello+World!;我是+Yang-Ci;机器人+/+AI+应用开发者;ROS2+·+MuJoCo+·+机械臂;让机器理解并改变世界" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=F7B93E&center=true&vCenter=true&random=false&width=650&v=2&lines=Hello+World!;我是+Yang-Ci;机器人+/+AI+应用开发者;ROS2+·+MuJoCo+·+机械臂;让机器理解并改变世界" alt="Typing SVG" />
 </a>
 
 <h3>👋 你好,我是 Yang-Ci</h3>
