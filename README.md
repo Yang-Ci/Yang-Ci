@@ -42,46 +42,6 @@
 
 ---
 
-## ⭐ 精选项目
-
-<div align="center">
-
-<a href="https://github.com/Yang-Ci/Borot-Arm_Mujoco">
-  <img src="https://gh-card.dev/repos/Yang-Ci/Borot-Arm_Mujoco.svg" alt="Borot-Arm_Mujoco" />
-</a>
-<a href="https://github.com/Yang-Ci/Rebot-Arm">
-  <img src="https://gh-card.dev/repos/Yang-Ci/Rebot-Arm.svg" alt="Rebot-Arm" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Yang-Ci/NVIDIA-Orin-AI-">
-  <img src="https://gh-card.dev/repos/Yang-Ci/NVIDIA-Orin-AI-.svg" alt="NVIDIA-Orin-AI-" />
-</a>
-<a href="https://github.com/Yang-Ci/Codex-Cosmos">
-  <img src="https://gh-card.dev/repos/Yang-Ci/Codex-Cosmos.svg" alt="Codex-Cosmos" />
-</a>
-
-</div>
-
----
-
-## 📫 联系我
-
-<p align="center">
-  <a href="mailto:2972783458@qq.com">
-    <img src="https://img.shields.io/badge/Email-2972783458@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?pageId=Yang-Ci&label=Visitors" alt="visitor" />
-</p>
-
----
-
 ## 🐍 贡献贪吃蛇
 
 <picture>
