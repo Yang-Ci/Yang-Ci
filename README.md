@@ -80,11 +80,11 @@
   <img src="https://visitor-badge.laobi.icu/badge?pageId=Yang-Ci&label=Visitors" alt="visitor" />
 </p>
 
-<!--
-============================================================
-🐍 进阶:贪吃蛇贡献图(需要 GitHub Action 自动生成,效果很炫)
-原理:用 Action 每天把你的贡献图转成一条贪吃蛇 SVG,再贴回 README。
-配置:在仓库根目录新建 .github/workflows/snake.yml,调用 Platane/snk 动作生成并提交到 output 分支。
-完整模板见:https://github.com/Platane/snk
-============================================================
--->
+---
+
+## 🐍 贡献贪吃蛇
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yang-Ci/Yang-Ci/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Yang-Ci/Yang-Ci/output/snake.svg" alt="contribution snake" />
+</picture>
