@@ -33,14 +33,14 @@
 
 </div>
 
-## / 贡献贪吃蛇 · Arcade Edition
+## / 贡献贪吃蛇
 
 > 每一次提交，都是下一步的能量。
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yang-Ci/Yang-Ci/output/snake-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yang-Ci/Yang-Ci/output/snake-contribution-graph.svg" />
-  <img src="https://raw.githubusercontent.com/Yang-Ci/Yang-Ci/output/snake-contribution-graph.svg" width="100%" alt="新版街机贪吃蛇，在 Yang-Ci 的真实贡献图上自动寻找目标" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yang-Ci/Yang-Ci/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yang-Ci/Yang-Ci/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Yang-Ci/Yang-Ci/output/snake.svg" width="100%" alt="contribution snake" />
 </picture>
 
 <p align="center"><sub>Code a little. Build something real.</sub></p>
