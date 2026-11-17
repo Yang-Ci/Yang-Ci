@@ -25,14 +25,11 @@
 
 </div>
 
-## / 持续构建
+## / GitHub 数据
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yang-Ci/Yang-Ci/output/stats-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Yang-Ci/Yang-Ci/output/stats.svg" width="680" alt="Yang-Ci 的 GitHub 连续贡献统计" />
-</picture>
+<img src="https://streak-stats.demolab.com/?user=Yang-Ci&theme=transparent&hide_border=true" width="680" alt="Yang-Ci 的 GitHub 连续贡献统计：总贡献、火焰圆环与最长连续贡献" />
 
 </div>
 
