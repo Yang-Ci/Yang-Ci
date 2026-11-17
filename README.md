@@ -17,13 +17,6 @@
 
 </div>
 
-## / 正在构建
-
-| 项目 | 方向 |
-| :--- | :--- |
-| [**ReBot Arm · DM**](https://github.com/Yang-Ci/ReBot_Arm_DigitalTwin_DM) | B601-DM 机械臂数字孪生与控制：ROS 2、MoveIt、MuJoCo、硬件驱动与智能体 |
-| [**ReBot Arm · RS**](https://github.com/Yang-Ci/ReBot_Arm_DigitalTwin_RS) | B601-RS 机械臂数字孪生与控制：仿真、Web 控制与真实机械臂联动 |
-
 ## / 技术工具箱
 
 <div align="center">
@@ -37,8 +30,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Yang-Ci&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58D5E8&fire=F7B93E&currStreakLabel=58D5E8" />
-  <img src="https://streak-stats.demolab.com/?user=Yang-Ci&theme=default&hide_border=true&ring=087E98&fire=E3A21A&currStreakLabel=087E98" width="680" alt="Yang-Ci 的 GitHub 连续贡献统计" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yang-Ci/Yang-Ci/output/stats-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Yang-Ci/Yang-Ci/output/stats.svg" width="680" alt="Yang-Ci 的 GitHub 连续贡献统计" />
 </picture>
 
 </div>
