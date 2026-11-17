@@ -1,10 +1,21 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
-  <img src="assets/header-light.svg" width="100%" alt="Yang-Ci · Robotics & AI — From simulation to the real world." />
-</picture>
+<table>
+  <tr>
+    <td width="60%" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+        <img src="assets/header-light.svg" width="100%" alt="Yang-Ci · Robotics & AI — From simulation to the real world." />
+      </picture>
+    </td>
+    <td width="40%" valign="middle">
+      <a href="https://github.com/Seeed-Projects/reBot-DevArm">
+        <img src="assets/rebot-arm.webp" width="100%" alt="reBot Arm 机械臂高清产品图，图片来自 Seeed Studio 官方项目" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 你好，我是 Yang-Ci 👋
 

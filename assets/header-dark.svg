@@ -1,11 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300" role="img" aria-labelledby="title desc">
   <title id="title">Yang-Ci · Robotics and AI</title>
   <desc id="desc">From simulation to the real world. ROS 2, MuJoCo, embodied intelligence.</desc>
   <defs>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#212d3b" stroke-width=".7"/></pattern>
   </defs>
-  <rect x="1" y="1" width="1198" height="298" rx="20" fill="#0d1117" stroke="#212d3b"/>
-  <rect x="704" y="2" width="494" height="296" rx="20" fill="url(#grid)"/>
   <path d="M48 40h28" stroke="#58d5e8" stroke-width="3"/>
   <text x="88" y="45" fill="#58d5e8" font-family="monospace" font-size="13" letter-spacing="3">ROBOTICS / AI / OPEN SOURCE</text>
   <text x="46" y="132" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="-3">Yang-Ci<tspan fill="#58d5e8">.</tspan></text>
@@ -14,13 +12,4 @@
   <rect x="129" y="213" width="84" height="29" rx="6" fill="#212d3b"/>
   <rect x="223" y="213" width="192" height="29" rx="6" fill="#212d3b"/>
   <g fill="#8b949e" font-family="monospace" font-size="12" text-anchor="middle"><text x="84" y="232">ROS 2</text><text x="171" y="232">MuJoCo</text><text x="319" y="232">Embodied Intelligence</text></g>
-  <text x="760" y="102" fill="#8b949e" font-family="monospace" font-size="11" letter-spacing="3">BRING IDEAS TO LIFE</text>
-  <g fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="44" font-weight="300" letter-spacing="2">
-    <text x="756" y="164">SIM</text>
-    <text x="962" y="164">REAL</text>
-  </g>
-  <path d="M871 149h57m-11-11 11 11-11 11" fill="none" stroke="#58d5e8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M760 188h320" fill="none" stroke="#212d3b"/>
-  <path d="M760 188h72" fill="none" stroke="#58d5e8" stroke-width="2"/>
-  <text x="760" y="217" fill="#8b949e" font-family="monospace" font-size="11" letter-spacing="2">BUILD · SIMULATE · DEPLOY</text>
 </svg>
